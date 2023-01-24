@@ -24,7 +24,7 @@ function LoginScreen() {
                 <SignupScreen />
             ):(
                 <>
-                <h1>Ulimited Films, Tv Programmes and 
+                <h1>Unlimited Films, Tv Programmes and 
                     more.
                 </h1>
 
