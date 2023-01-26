@@ -1,5 +1,5 @@
 <h1>This is a Netflix-Clone</h1>
-<h3>The Tech i Used to Build:</h3>
+<h3>The TechStack i Used to Build:</h3>
 <ul>
 <li>React</li>
 <li>Redux</li>
