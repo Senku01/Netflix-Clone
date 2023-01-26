@@ -1,5 +1,4 @@
 <h1>This is a Netflix-Clone</h1>
-<h2>The Primary Goal of this Project is Acquire Skills and Knowleage by Learning it</h2>
 <h3>The Tech i Used to Build:</h3>
 <ul>
 <li>React</li>
