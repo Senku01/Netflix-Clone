@@ -57,3 +57,12 @@
 .profileScreen__info > img {
     height: 100px;
 }
+
+.profileScreen__plans {
+    margin-top: 20px;
+}
+
+.profileScreen__plans > h3 {
+    border-bottom: 1px solid #282c2d;
+    padding-bottom: 10px;
+}

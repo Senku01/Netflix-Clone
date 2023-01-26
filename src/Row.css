@@ -7,11 +7,12 @@
 .row__posters{
     display: flex;
     overflow-y: hidden;
-    overflow-x: auto;
+    overflow-x: scroll;
     padding: 20px;
+    cursor: pointer;
     /* Hides Scrollbar for FIrefox IE and Edge */
-    /* -ms-overflow-style: none;
-    scrollbar-width: none; */
+    /* -ms-overflow-style: none; */
+    scrollbar-width: none;
 }
 /* Hides Scrollbar for Chrome safari and opera */
 .row__posters::-webkit-scrollbar {

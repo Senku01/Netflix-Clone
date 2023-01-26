@@ -23,6 +23,12 @@ const user = useSelector(selectUser)
                         {user.email}
                     </h2>
                     <div className='profileScreen__plans'>
+                        <h3>Plans</h3>
+                        <h3>I dont Ask for Subscription to Watch Movie not on my Clone XD 😂<br></br>
+                            Since i cannot Afford for a Card number to Upgrade my Firebase Plan to Blaze to Add the Stripe Extention inorder to Add Payment Screen in my Netflix Clone<br></br>
+                            So i am Wrapping up my Netflix Clone By the way Happy Republic Day  <br></br>
+                            Enjoy Accessing my Netflix for free-Of-Cost 🤫 😍 </h3>
+                        {/* <PlansScreen /> */}
                         <button onClick={()=> auth.signOut()} 
                             className='profileScreen__signOut'> Sign Out</button>
 
