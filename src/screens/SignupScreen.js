@@ -30,7 +30,7 @@ function SignInScreen() {
       emailRef.current.value,
       passwordRef.current.value
     ).then((cred)=>{
-      console.log(cred)
+      // console.log(cred)
     }).catch((error)=> alert(error.message))
   }
 
