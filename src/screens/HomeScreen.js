@@ -21,7 +21,7 @@ function HomeScreen() {
         <Row title='Comedy Movies' fetchUrl={requests.fetchComedyMovies}/>
         <Row title='Horror Movies' fetchUrl={requests.fetchHorrorMovies}/>
         <Row title='Romance Movie' fetchUrl={requests.fetchRomanceMovies}/>
-        <Row title='Doocumentaries' fetchUrl={requests.fetchDocumentaries}/>
+        <Row title='Documentaries' fetchUrl={requests.fetchDocumentaries}/>
     
     </div>
   )
