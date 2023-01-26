@@ -11,13 +11,13 @@
     padding: 20px;
     cursor: pointer;
     /* Hides Scrollbar for FIrefox IE and Edge */
-    /* -ms-overflow-style: none; */
-    scrollbar-width: none;
+    /* -ms-overflow-style: none;
+    scrollbar-width: none; */
 }
 /* Hides Scrollbar for Chrome safari and opera */
-.row__posters::-webkit-scrollbar {
+/* .row__posters::-webkit-scrollbar {
     display: none;
-}
+} */
 
 .row__poster{
     max-height: 100px;
