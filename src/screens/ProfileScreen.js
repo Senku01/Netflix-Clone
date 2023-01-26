@@ -28,6 +28,7 @@ const user = useSelector(selectUser)
                             Since i cannot Afford for a Card number to Upgrade my Firebase Plan to Blaze to Add the Stripe Extention inorder to Add Payment Screen in my Netflix Clone<br></br>
                             So i am Wrapping up my Netflix Clone By the way Happy Republic Day  <br></br>
                             Enjoy Accessing my Netflix for free-Of-Cost 🤫 😍 </h3>
+                        <iframe width="560" height="315" autoplay src="https://www.youtube.com/embed/BBJa32lCaaY?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         {/* <PlansScreen /> */}
                         <button onClick={()=> auth.signOut()} 
                             className='profileScreen__signOut'> Sign Out</button>
