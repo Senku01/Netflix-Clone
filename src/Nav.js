@@ -8,7 +8,7 @@ const history = useHistory()
 
 
 const transistionNavBar = () =>{
-  if (window.screenY > 100){
+  if (window.pageYOffset > 100){
     handleShow(true);
   }
   else
