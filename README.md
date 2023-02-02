@@ -7,7 +7,7 @@
 <li>Stripe (For Payment)</li>
 </ul>
 
-<h4>You can Visit the Lauched Site at:</h4>
+<h4>You can Visit the Launched Site at:</h4>
 
 [Netflix-Clone](https://netflix-clone-vignesh.netlify.app/)
 
